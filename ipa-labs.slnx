@@ -5,6 +5,7 @@
   </Configurations>
   <Folder Name="/Элементы решения/">
     <File Path=".gitignore" />
+    <Project Path="Laboratory-work-3/Laboratory-work-3.vcxproj" Id="976959a4-183b-4909-b837-bd13057e2568" />
   </Folder>
   <Project Path="Laboratory-work-1/Laboratory-work-1.vcxproj" Id="9459825a-227a-460a-81f1-1b3894b7497c" />
   <Project Path="Laboratory-work-2/Laboratory-work-2.vcxproj" Id="56d01468-31c4-4d8e-9ea8-c714f6406599" />
